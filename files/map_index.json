@@ -1,0 +1,499 @@
+[
+    {
+        "mapId": "m2001",
+        "mapIcon": "",
+        "mapName": "Superflat 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m2001.zip",
+        "mapSpawnPos": "-970 5 1605"
+    },
+    {
+        "mapId": "m2002",
+        "mapIcon": "",
+        "mapName": "Superflat 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m2002.zip",
+        "mapSpawnPos": "541 65 360"
+    },
+    {
+        "mapId": "m1001_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1001.png",
+        "mapName": "Survival Games 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1001_1.zip",
+        "mapSpawnPos": "27 22 -1"
+    },
+    {
+        "mapId": "m1001_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1001.png",
+        "mapName": "Survival Games 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1001_2.zip",
+        "mapSpawnPos": "105 20 139"
+    },
+    {
+        "mapId": "m1001_3",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1001.png",
+        "mapName": "Survival Games 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1001_3.zip",
+        "mapSpawnPos": "-36 41 -2"
+    },
+    {
+        "mapId": "m1001_4",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1001.png",
+        "mapName": "Survival Games 4",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1001_4.zip",
+        "mapSpawnPos": "-781 4 -631"
+    },
+    {
+        "mapId": "m1001_5",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1001.png",
+        "mapName": "Survival Games 5",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1001_5.zip",
+        "mapSpawnPos": "133 72 143"
+    },
+    {
+        "mapId": "m1002_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_1.zip",
+        "mapSpawnPos": "1881 81 -681"
+    },
+    {
+        "mapId": "m1002_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_2.zip",
+        "mapSpawnPos": "1760 65 -632"
+    },
+    {
+        "mapId": "m1002_3",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_3.zip",
+        "mapSpawnPos": "1814 46 -704"
+    },
+    {
+        "mapId": "m1002_4",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 4",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_4.zip",
+        "mapSpawnPos": "1834 92 -707"
+    },
+    {
+        "mapId": "m1002_5",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 5",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_5.zip",
+        "mapSpawnPos": "519 18 69"
+    },
+    {
+        "mapId": "m1002_6",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 6",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_6.zip",
+        "mapSpawnPos": "1275 39 48"
+    },
+    {
+        "mapId": "m1002_7",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 7",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_7.zip",
+        "mapSpawnPos": "1623 65 -568"
+    },
+    {
+        "mapId": "m1002_8",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 8",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_8.zip",
+        "mapSpawnPos": "1686 106 -547"
+    },
+    {
+        "mapId": "m1002_9",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1002.png",
+        "mapName": "Sky Wars 9",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1002_9.zip",
+        "mapSpawnPos": "1739 65 -612"
+    },
+    {
+        "mapId": "m1005",
+        "mapIcon": "",
+        "mapName": "Clan War",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1005.zip",
+        "mapSpawnPos": "1752 35 -664"
+    },
+    {
+        "mapId": "m1007",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1007.png",
+        "mapName": "Bow Spleef",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1007.zip",
+        "mapSpawnPos": "1755 10 -494"
+    },
+    {
+        "mapId": "m1008_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1008.png",
+        "mapName": "Bed Wars: Classic 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_1.zip",
+        "mapSpawnPos": "1762 82 -547"
+    },
+    {
+        "mapId": "m1008_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1008.png",
+        "mapName": "Bed Wars: Classic 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_2.zip",
+        "mapSpawnPos": "1682 83 -474"
+    },
+    {
+        "mapId": "m1008_3",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1008.png",
+        "mapName": "Bed Wars: Classic 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_3.zip",
+        "mapSpawnPos": "1666 85 -485"
+    },
+    {
+        "mapId": "m1008_4",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1008.png",
+        "mapName": "Bed Wars: Classic 4",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_4.zip",
+        "mapSpawnPos": "1666 73 -498"
+    },
+    {
+        "mapId": "m1008_1n",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1046.png",
+        "mapName": "Bed Wars 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_1n.zip",
+        "mapSpawnPos": "47 51 58"
+    },
+    {
+        "mapId": "m1008_2n",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1046.png",
+        "mapName": "Bed Wars 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_2n.zip",
+        "mapSpawnPos": "86 56 85"
+    },
+    {
+        "mapId": "m1008_3n",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1046.png",
+        "mapName": "Bed Wars 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_3n.zip",
+        "mapSpawnPos": "87 43 80"
+    },
+    {
+        "mapId": "m1008_4n",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1046.png",
+        "mapName": "Bed Wars 4",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1008_4n.zip",
+        "mapSpawnPos": "1680 104 -561"
+    },
+    {
+        "mapId": "m1009",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1009.png",
+        "mapName": "Murder Mystery",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1009.zip",
+        "mapSpawnPos": "1710 71 -460"
+    },
+    {
+        "mapId": "m1010",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1010.png",
+        "mapName": "TNT Run",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1010.zip",
+        "mapSpawnPos": "1778 53 -611"
+    },
+    {
+        "mapId": "m1011_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1011.png",
+        "mapName": "Snowball Battle 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1011_1.zip",
+        "mapSpawnPos": "1724 27 -568"
+    },
+    {
+        "mapId": "m1011_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1011.png",
+        "mapName": "Snowball Battle 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1011_2.zip",
+        "mapSpawnPos": "1675 34 -573"
+    },
+    {
+        "mapId": "m1011_3",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1011.png",
+        "mapName": "Snowball Battle 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1011_3.zip",
+        "mapSpawnPos": "1726 33 -570"
+    },
+    {
+        "mapId": "m1011_4",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1011.png",
+        "mapName": "Snowball Battle 4",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1011_4.zip",
+        "mapSpawnPos": "1850 30 -612"
+    },
+    {
+        "mapId": "m1014",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1014.png",
+        "mapName": "Jail Break",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1014.zip",
+        "mapSpawnPos": "148 116 319"
+    },
+    {
+        "mapId": "m1014_old",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1014.png",
+        "mapName": "Jail Break (Old)",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1014_old.zip",
+        "mapSpawnPos": "-24 19 202"
+    },
+    {
+        "mapId": "m1015",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1015.png",
+        "mapName": "Treasure Hunter",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1015.zip",
+        "mapSpawnPos": "543 228 -143"
+    },
+    {
+        "mapId": "m1016",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1016.png",
+        "mapName": "Battlefield",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1016.zip",
+        "mapSpawnPos": "1786 47 -418"
+    },
+    {
+        "mapId": "m1017",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1017.png",
+        "mapName": "Hide & Seek",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1017.zip",
+        "mapSpawnPos": "683 44 -632"
+    },
+    {
+        "mapId": "m1018_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1018.png",
+        "mapName": "Egg War 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1018_1.zip",
+        "mapSpawnPos": "1735 38 -524"
+    },
+    {
+        "mapId": "m1018_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1018.png",
+        "mapName": "Egg War 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1018_2.zip",
+        "mapSpawnPos": "551 62 305"
+    },
+    {
+        "mapId": "m1018_3",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1018.png",
+        "mapName": "Egg War 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1018_3.zip",
+        "mapSpawnPos": "-1152 40 964"
+    },
+    {
+        "mapId": "m1018_4",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1018.png",
+        "mapName": "Egg War 4",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1018_4.zip",
+        "mapSpawnPos": "369 27 -264"
+    },
+    {
+        "mapId": "m1020",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1020.png",
+        "mapName": "Mini Town",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1020.zip",
+        "mapSpawnPos": "379 59 240"
+    },
+    {
+        "mapId": "m1021_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1021.png",
+        "mapName": "Rainbow Parkour 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1021_1.zip",
+        "mapSpawnPos": "327 79 -41"
+    },
+    {
+        "mapId": "m1021_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1021.png",
+        "mapName": "Rainbow Parkour 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1021_2.zip",
+        "mapSpawnPos": "4 92 -6"
+    },
+    {
+        "mapId": "m1021_3",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1021.png",
+        "mapName": "Rainbow Parkour 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1021_3.zip",
+        "mapSpawnPos": "1527 8 -619"
+    },
+    {
+        "mapId": "m1021_4",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1021.png",
+        "mapName": "Rainbow Parkour 4",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1021_4.zip",
+        "mapSpawnPos": "1821 237 -551"
+    },
+    {
+        "mapId": "m1022",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1022.png",
+        "mapName": "Capture Flag",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1022.zip",
+        "mapSpawnPos": "270 55 3246"
+    },
+    {
+        "mapId": "m1023",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1023.png",
+        "mapName": "Build Battle",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1023.zip",
+        "mapSpawnPos": "135 70 -320"
+    },
+    {
+        "mapId": "m1024",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1024.png",
+        "mapName": "Gem Knight",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1024.zip",
+        "mapSpawnPos": "199 60 45"
+    },
+    {
+        "mapId": "m1025",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1025.png",
+        "mapName": "Hero Tycoon",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1025.zip",
+        "mapSpawnPos": "101 27 94"
+    },
+    {
+        "mapId": "m1025o",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1025.png",
+        "mapName": "Hero Tycoon (Old)",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1025o.zip",
+        "mapSpawnPos": "155 45 459"
+    },
+    {
+        "mapId": "m1026_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1026.png",
+        "mapName": "TNT Tag 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1026_1.zip",
+        "mapSpawnPos": "1499 89 -286"
+    },
+    {
+        "mapId": "m1026_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1026.png",
+        "mapName": "TNT Tag 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1026_2.zip",
+        "mapSpawnPos": "2295 7 65"
+    },
+    {
+        "mapId": "m1027",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1027.png",
+        "mapName": "Sky Royale",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1027.zip",
+        "mapSpawnPos": "65 46 445"
+    },
+    {
+        "mapId": "m1028",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1028.png",
+        "mapName": "Ultimate Fighting",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1028.zip",
+        "mapSpawnPos": "403 8 -709"
+    },
+    {
+        "mapId": "m1029_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1029.png",
+        "mapName": "Mega Walls 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1029_1.zip",
+        "mapSpawnPos": "32 83 70"
+    },
+    {
+        "mapId": "m1029_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1029.png",
+        "mapName": "Mega Walls 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1029_2.zip",
+        "mapSpawnPos": "4 51 10"
+    },
+    {
+        "mapId": "m1030_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1030.png",
+        "mapName": "Snowman Defender 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1030_1.zip",
+        "mapSpawnPos": "1663 32 -611"
+    },
+    {
+        "mapId": "m1030_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1030.png",
+        "mapName": "Snowman Defender 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1030_2.zip",
+        "mapSpawnPos": "1717 35 -579"
+    },
+    {
+        "mapId": "m1030_3",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1030.png",
+        "mapName": "Snowman Defender 3",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1030_3.zip",
+        "mapSpawnPos": "1724 25 -577"
+    },
+    {
+        "mapId": "m1031",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1031.png",
+        "mapName": "Ranchers",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1031.zip",
+        "mapSpawnPos": "1127 5 -621"
+    },
+    {
+        "mapId": "m1032",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1032.png",
+        "mapName": "Blockman Strike Hall",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1032.zip",
+        "mapSpawnPos": "78 155 120"
+    },
+    {
+        "mapId": "m1033",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1032.png",
+        "mapName": "Blockman Strike",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1033.zip",
+        "mapSpawnPos": "1716 40 -573"
+    },
+    {
+        "mapId": "m1036_1",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1036.png",
+        "mapName": "Ender vs Slender 1",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1036_1.zip",
+        "mapSpawnPos": "1813 57 -609"
+    },
+    {
+        "mapId": "m1036_2",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1036.png",
+        "mapName": "Ender vs Slender 2",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1036_2.zip",
+        "mapSpawnPos": "1813 57 -609"
+    },
+    {
+        "mapId": "m1046",
+        "mapIcon": "https://static.resquared.studio/game-icons/g1046.png",
+        "mapName": "Bed Wars Hall",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1046.zip",
+        "mapSpawnPos": "1701 94 -573"
+    },
+    {
+        "mapId": "m1047",
+        "mapIcon": "",
+        "mapName": "Realm City",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1047.zip",
+        "mapSpawnPos": "-684 36 -215"
+    },
+    {
+        "mapId": "m1049",
+        "mapIcon": "",
+        "mapName": "Sky Block: Mining Area",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1049.zip",
+        "mapSpawnPos": "91 52 145"
+    },
+    {
+        "mapId": "m1050",
+        "mapIcon": "",
+        "mapName": "Sky Block: Produce Area",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1050.zip",
+        "mapSpawnPos": "36 22 30"
+    },
+    {
+        "mapId": "m1051",
+        "mapIcon": "",
+        "mapName": "The Walking Dead",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1051.zip",
+        "mapSpawnPos": "169 49 220"
+    },
+    {
+        "mapId": "m1052",
+        "mapIcon": "",
+        "mapName": "Blockfort",
+        "mapZipUrl": "https://static.resquared.studio/maps/m1052.zip",
+        "mapSpawnPos": "292 71 282"
+    }
+]
