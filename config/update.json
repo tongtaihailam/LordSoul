@@ -52,8 +52,8 @@
         "forcible": "Что нового ."
       },
       "hi_IN": {
-        "normal": "updt,"
-        "forcible": "update"
+        "normal": "update",
+        "forcible": "update",
       },
       "tr_TR": {
         "normal": "UPDATE",
