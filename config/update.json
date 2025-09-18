@@ -53,7 +53,7 @@
       },
       "hi_IN": {
         "normal": "update",
-        "forcible": "update",
+        "forcible": "update"
       },
       "tr_TR": {
         "normal": "UPDATE",
